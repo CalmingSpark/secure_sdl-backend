@@ -1,0 +1,5 @@
+/home/irina/dev/secure_sdl/src/main/java/com/common/secure_sdl/config/GlobalCorsFilter.java
+/home/irina/dev/secure_sdl/src/main/java/com/common/secure_sdl/SecureSdlApplication.java
+/home/irina/dev/secure_sdl/src/main/java/com/common/secure_sdl/restcontrollers/WebRestController.java
+/home/irina/dev/secure_sdl/src/main/java/com/common/secure_sdl/topics/TopicService.java
+/home/irina/dev/secure_sdl/src/main/java/com/common/secure_sdl/entities/Topic.java
